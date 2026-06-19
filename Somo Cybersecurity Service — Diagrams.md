@@ -1,15 +1,5 @@
 # Somo Cybersecurity Service — Architecture Diagrams
 
-## How to render these diagrams
-
-1. Go to **https://mermaid.live**
-2. Copy the code block for one diagram (everything between the triple backticks)
-3. Paste it into the editor on the left side
-4. Click **Download** → **PNG** or **SVG**
-5. Insert the downloaded image into your Google Doc via Insert → Image
-
----
-
 ## Diagram 1 — Full System Architecture (7 Layers)
 
 ```mermaid
